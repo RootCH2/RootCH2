@@ -17,16 +17,27 @@ I enjoy building efficient tools, automations, and security-oriented projects.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-C · C++ · C# · JavaScript · Python · Rust · Assembly  
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Tools
-WinAPI · .NET · Node.js  
-IDA Pro · Ghidra · x64dbg  
-Visual Studio · VSCode · Git  
+---
 
+### Frameworks & Tools
+![WinAPI](https://img.shields.io/badge/WinAPI-000000?style=for-the-badge&logo=windows&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
 ---
 
 ## 🧪 Projects & Work
