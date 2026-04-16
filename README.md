@@ -1,16 +1,58 @@
-## Hi there 👋
+# ⭐ Hi, I'm MhiroxCoder
 
-<!--
-**RootCH2/RootCH2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with a strong focus on low-level systems, reverse engineering, and game manipulation.  
+I enjoy building efficient tools, automations, and security-oriented projects.
 
-Here are some ideas to get you started:
+**FuŁ**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+- 🛠️ Software Engineer specialized in low-level development & system internals  
+- 🧩 Reverse engineer & game manipulation (memory editing, offsets, exploit research)  
+- 🛡️ Malware development (research & simulation environments)  
+- ⚙️ Automation tools, debuggers, and performance-focused systems  
+- 🎮 Interested in kernel-level programming and game internals  
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+C · C++ · C# · JavaScript · Python · Rust · Assembly  
+
+### Tools
+WinAPI · .NET · Node.js  
+IDA Pro · Ghidra · x64dbg  
+Visual Studio · VSCode · Git  
+
+---
+
+## 🧪 Projects & Work
+
+- Reverse engineering tools  
+- Game memory utilities & offset dumpers  
+- Malware research environments  
+- Automation & system-level tools  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧠 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_USERNAME>&theme=tokyo-night&hide_border=true"/>
+</p>
