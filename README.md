@@ -3,7 +3,9 @@
 Software engineer with a strong focus on low-level systems, reverse engineering, and game manipulation.  
 I enjoy building efficient tools, automations, and security-oriented projects.
 
-**FuŁ**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Malware+Developer;Game+Manipulator;Reverse+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
