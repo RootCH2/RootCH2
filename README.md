@@ -1,4 +1,4 @@
-# ⭐ Hi, I'm MhiroxCoder
+#  Hi, I'm MhiroxCoder
 
 Software engineer with a strong focus on low-level systems, reverse engineering, and game manipulation.  
 I enjoy building efficient tools, automations, and security-oriented projects.
@@ -9,17 +9,17 @@ I enjoy building efficient tools, automations, and security-oriented projects.
 
 ---
 
-## 🔥 About Me
+##  About Me
 
-- 🛠️ Software Engineer specialized in low-level development & system internals  
-- 🧩 Reverse engineer & game manipulation (memory editing, offsets, exploit research)  
-- 🛡️ Malware development (research & simulation environments)  
-- ⚙️ Automation tools, debuggers, and performance-focused systems  
-- 🎮 Interested in kernel-level programming and game internals  
+-  Software Engineer specialized in low-level development & system internals  
+-  Reverse engineer & game manipulation (memory editing, offsets, exploit research)  
+-  Malware development (research & simulation environments)  
+-  Automation tools, debuggers, and performance-focused systems  
+-  Interested in kernel-level programming and game internals  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
@@ -42,7 +42,7 @@ I enjoy building efficient tools, automations, and security-oriented projects.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
 ---
 
-## 🧪 Projects & Work
+##  Projects & Work
 
 - Reverse engineering tools  
 - Game memory utilities & offset dumpers  
@@ -51,7 +51,7 @@ I enjoy building efficient tools, automations, and security-oriented projects.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -64,7 +64,7 @@ I enjoy building efficient tools, automations, and security-oriented projects.
 
 ---
 
-## 🧠 Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_USERNAME>&theme=tokyo-night&hide_border=true"/>
